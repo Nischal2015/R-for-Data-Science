@@ -1,0 +1,8 @@
+COVID-19 Data Analysis (Upto March 17)
+
+Basic Data Visualization using ggplot2 and transformation using dplyr (R programming language)
+
+This visualization is a datacamp practise project. However, the data provided in this project are provided by the 
+Johns Hopkins University Center for Systems Science and Engineering who created a publicly available data repository 
+to consolidate this data from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the 
+Ministry of Health from multiple countries. The data used in this visualization are in the datasets folder.
